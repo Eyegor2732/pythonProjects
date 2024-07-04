@@ -6,7 +6,7 @@ def reverse_phrase(some_string):
     for item in strx:
         str_output = str_output + " " + item
 
-    return str_output.strip()git
+    return str_output.strip()
 
 
 mystring = "I'd like to say hello to the whole world!"
